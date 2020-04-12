@@ -11,17 +11,17 @@
   },
   {
 	"id": 2,
-	"name" : "Kings Cross"
+	"name" : "Kings Cross",
 	"state" : 1
   },
   {
 	"id": 3,
-	"name" : "Airport"
+	"name" : "Airport",
 	"state" : 1
   },
   {
 	"id": 4,
-	"name" : "ACT"
+	"name" : "ACT",
 	"state" : 2
   }
 ]
