@@ -1,8 +1,8 @@
 {
   "centers" :[
-	  {	"id": "1",	"name" : "New South Wales" },
-	  {	"id": "2","name" : "Victoria"}
-	],
+	{"id": 1,"name" : "New South Wales" },
+	{"id": 2,"name" : "Victoria"}
+   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
