@@ -33,12 +33,12 @@
 	  },
 	  {
 		"id": 2,
-		"name" : "Laser Hair Removal"
+		"name" : "Laser Hair Removal",
 		"image" : "../static/images/Laser_Hair_Removal.jpg"
 	  },
 	  {
 		"id": 3,
-		"name" : "Skin Treatments"
+		"name" : "Skin Treatments",
 		"image" : "../static/images/Skin_Treatments.jpg"
 	  }
 	],
