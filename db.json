@@ -24,17 +24,17 @@
 	  {
 		"id": 1,
 		"name" : "Body Treatments",
-		"image" : "../../static/images/Body_Treatments.jpg"
+		"image" : "/_nuxt/static/images/Body_Treatments.jpg"
 	  },
 	  {
 		"id": 2,
 		"name" : "Laser Hair Removal",
-		"image" : "../static/images/Laser_Hair_Removal.jpg"
+		"image" : "/_nuxt/static/images/Laser_Hair_Removal.jpg"
 	  },
 	  {
 		"id": 3,
 		"name" : "Skin Treatments",
-		"image" : "./static/images/Skin_Treatments.jpg"
+		"image" : "/_nuxt/static/images/Skin_Treatments.jpg"
 	  }
 	]
   }
