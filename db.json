@@ -24,7 +24,7 @@
 	  {
 		"id": 1,
 		"name" : "Body Treatments",
-		"image" : "../static/images/Body_Treatments.jpg"
+		"image" : "../../static/images/Body_Treatments.jpg"
 	  },
 	  {
 		"id": 2,
@@ -34,7 +34,7 @@
 	  {
 		"id": 3,
 		"name" : "Skin Treatments",
-		"image" : "../static/images/Skin_Treatments.jpg"
+		"image" : "./static/images/Skin_Treatments.jpg"
 	  }
 	]
   }
